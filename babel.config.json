@@ -1,0 +1,4 @@
+//arquivo de configuração do BABEL
+{
+    "presets": ["@babel/preset-env"]
+}
